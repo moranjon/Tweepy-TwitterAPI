@@ -42,3 +42,4 @@ Task4.py :
 	(the program instantly sends you email based on the keywords you provide it)
 	(run the program and read the printed code for instructions and sample code that could be inputted)
 	
+# SEE 'CPS470-Assignment2Complete-JonathanMoran.pdf' FOR SAMPLE RUN/OUTPUT
